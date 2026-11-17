@@ -8,7 +8,7 @@ directory = "./public"
 [[d1_databases]]
 binding = "DB"
 database_name = "pje-stf-rp"
-database_id = "COLE_AQUI_O_ID_DO_BANCO"
+database_id = "3223e448-930c-4179-afbe-e440a000002e"
 
 # Configurações NÃO secretas (pode editar aqui e salvar no GitHub)
 [vars]
